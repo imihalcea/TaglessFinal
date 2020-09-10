@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodageFinal", "cs\CodageFinal\CodageFinal.csproj", "{0DEE89A3-1030-49C9-9472-910A6632E81A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodageInitial", "cs\CodageInitial\CodageInitial.csproj", "{9178A952-02FB-4CCD-A887-9962166A40CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DEE89A3-1030-49C9-9472-910A6632E81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEE89A3-1030-49C9-9472-910A6632E81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEE89A3-1030-49C9-9472-910A6632E81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEE89A3-1030-49C9-9472-910A6632E81A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9178A952-02FB-4CCD-A887-9962166A40CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9178A952-02FB-4CCD-A887-9962166A40CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9178A952-02FB-4CCD-A887-9962166A40CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9178A952-02FB-4CCD-A887-9962166A40CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
