@@ -10,4 +10,5 @@ Les api fluent (NFluent,Serilog etc..) sont des DSL internes qui s’appuient su
 
 SQL et CSS par exemple sont également des DSL externes au programme. 
 
-Principale source d'inspiration se trouve ici: https://github.com/user-signal/tagless-final-lambda-lille
+Principale source d'inspiration se trouve ici: 
+https://github.com/user-signal/tagless-final-lambda-lille
